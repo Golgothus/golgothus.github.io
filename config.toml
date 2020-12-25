@@ -11,8 +11,10 @@ theme = "LoveIt"
 [params]
   # LoveIt theme version
   version = "0.2.X"
-# site default theme ("light", "dark", "auto")
+  # site default theme ("light", "dark", "auto")
   defaultTheme = "dark"
+  # site keywords
+  keywords = ["Theme", "Hugo"]
 
 [params.search]
     enable = true
