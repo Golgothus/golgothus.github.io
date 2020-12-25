@@ -11,6 +11,8 @@ theme = "LoveIt"
 [params]
   # LoveIt theme version
   version = "0.2.X"
+# site default theme ("light", "dark", "auto")
+  defaultTheme = "dark"
 
 [params.search]
     enable = true
