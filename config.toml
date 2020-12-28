@@ -46,11 +46,11 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "https://pbs.twimg.com/profile_images/1342360931960053760/Mp-83RxU_400x400.jpg"
+      avatarURL = "/images/avatar.jpg"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = "Test, test, is this thing on?"
+      title = "Welcome to my blog / write-up site!"
       # subtitle shown in home page
-      subtitle = "This is My New Hugo Site"
+      subtitle = "Test, test, is this thing on?"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -161,6 +161,14 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+	identifier = "About"
+	pre = ""
+	post = ""
+	name = "About"
+	url = "/about/"
+	title = ""
+	weight = 4
 
 # Markup related configuration in Hugo
 [markup]
@@ -176,4 +184,5 @@ theme = "LoveIt"
   link = "https://www.golgothus.xyz"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+	home = ["HTML", "RSS", "JSON"]
+	# page = ["HTML","MarkDown"]

@@ -5,7 +5,7 @@ draft: false
 author: "Golgothus"
 description: "Test sample description, writing things all DAY LONG!"
 categories: ["THM - Beginner Path"]
-tags: ["Linux","TryHackMe"]
+tags: ["TryHackMe","Linux"]
 ---
 
 # Learn Linux

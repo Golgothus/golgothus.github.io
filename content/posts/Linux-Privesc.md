@@ -4,6 +4,7 @@ date: 2020-12-25T01:02:30-06:00
 draft: false
 author: "Golgothus"
 description: "Test description to show up on the posts page."
+tags: ["TryHackMe","Linux"]
 ---
 
 # Linux Priv Escalation
