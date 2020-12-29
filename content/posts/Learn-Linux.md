@@ -4,8 +4,10 @@ date: 2020-12-25T00:25:54-06:00
 draft: false
 author: "Golgothus"
 description: "Test sample description, writing things all DAY LONG!"
+summary: "TryHackMe Beginner Path - Learn Linux; Primarily this material runs over beginner Linux commands and usage such as chmod, sudo, grep, find, etc."
 categories: ["THM - Beginner Path"]
 tags: ["TryHackMe","Linux"]
+featuredImage: "/images/cabin.png"
 ---
 
 # Learn Linux
@@ -111,7 +113,6 @@ sudo -u jen whoami
 
 How do you list your current sudo privileges(what commands you can run, who you can run them as etc.) \
 sudo -l
-
 ## adduser | addgroup
 
 dduser \<username> \

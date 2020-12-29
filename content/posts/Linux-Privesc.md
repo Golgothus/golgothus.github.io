@@ -3,8 +3,13 @@ title: "Linux Privesc"
 date: 2020-12-25T01:02:30-06:00
 draft: false
 author: "Golgothus"
-description: "Test description to show up on the posts page."
+description: "My attempt at completing the TryHackMe.com Beginner Path - Linux Privilege Escalation room"
+summary: "TryHackMe Beginner Path - Linux Privesc write-up."
 tags: ["TryHackMe","Linux"]
+featuredImage: "/images/japan.jpg"
+categories: ["THM - Beginner Path"]
+#- name: featured-image-preview
+# src: /assets/images/featured-image-preview.jpg
 ---
 
 # Linux Priv Escalation
