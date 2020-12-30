@@ -7,7 +7,11 @@ description: "Test sample description, writing things all DAY LONG!"
 summary: "TryHackMe Beginner Path - Learn Linux; Primarily this material runs over beginner Linux commands and usage such as chmod, sudo, grep, find, etc."
 categories: ["THM - Beginner Path"]
 tags: ["TryHackMe","Linux"]
-featuredImage: "/images/cabin.png"
+featuredImage: "/images/city.png"
+images: ["city.png"]
+#resources:
+#- name: "featured-image"
+#  src: "featured-image.png"
 ---
 
 # Learn Linux

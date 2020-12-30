@@ -4,8 +4,6 @@ defaultContentLanguage = "en"
 # language code
 languageCode = "en"
 title = "ghost$"
-# website images for Open Graph and Twitter Cards
-images = ["/images/logo.jpg"]
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
@@ -16,6 +14,9 @@ theme = "LoveIt"
   defaultTheme = "dark"
   # site keywords
   keywords = ["Theme", "Hugo"]
+  # Images URL for open graph
+	# images = {{ .Resources.Match "images/*" }}
+
 
 [params.search]
     enable = true
@@ -148,22 +149,20 @@ theme = "LoveIt"
       VK = false
       Buffer = false
       Xing = false
-      Line = true
       Instapaper = false
       Pocket = true
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
       Renren = false
-      Myspace = true
-      Blogger = true
+      Myspace = false
+#      Blogger = true
       Baidu = false
       Odnoklassniki = false
-      Evernote = true
+#      Evernote = true
       Skype = false
       Trello = false
-      Mix = false
+#      Mix = false
 
 [menu]
   [[menu.main]]
