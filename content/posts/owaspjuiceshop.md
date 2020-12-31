@@ -1,3 +1,14 @@
+---
+title: "Owasp Juice Shop"
+date: 2020-12-25T01:02:30-06:00
+draft: false
+author: "Golgothus"
+description: "Walkthrough of the TryHackMe.com Beginner Path - OWASP Juice Shop room"
+summary: "TryHackMe Beginner Path - OWASP Juice Shop write-up."
+tags: ["TryHackMe","Web Application Security"]
+featuredImage: "/images/city.png"
+categories: ["THM - Beginner Path"]
+---
 # THM Beginner Path - OWASP JuiceShop
 
 > Admin email - admin@juice-sh.op

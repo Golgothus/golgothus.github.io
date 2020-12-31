@@ -1,47 +1,51 @@
 ---
-title: "Learn Linux"
+title: "Linux Fundamentals - part 2"
 date: 2020-12-25T00:25:54-06:00
 draft: false
 author: "Golgothus"
-description: "Test sample description, writing things all DAY LONG!"
-summary: "TryHackMe Beginner Path - Learn Linux; Primarily this material runs over beginner Linux commands and usage such as chmod, sudo, grep, find, etc."
-categories: ["THM - Beginner Path"]
-tags: ["TryHackMe","Linux"]
+summary: "TryHackMe Beginner Path - Linux Fundamentals Part 2; Primarily this material runs over beginner Linux commands and usage such as chmod, sudo, grep, find, etc."
+categories: ["Linux Fundamentals"]
+tags: ["TryHackMe","Beginner Path","Linux"]
 featuredImage: "/images/city.png"
-images: ["city.png"]
-#resources:
-#- name: "featured-image"
-#  src: "featured-image.png"
 ---
+# Linux Fundamentals - Part 2
+## Task 1 - Intro
+In this course we'll be going through a walk-thru of Linux Operators and Advanced File Operators, deploy your machine, and let's login!
 
-# Learn Linux
+No tasks for this section we need to respond to.
 
-| Users | Password|
-|---|---|
-|shiba1 | shiba1 |
-|shiba2 | pinguftw|
-|shiba3|happynootnoises|
-|shiba4|test1234|
-|nootnoot|notsofast|
+## Task 2 - SSH - Intro
+Quick run thru of SSH. This tool is going to be our main method for connecting to our vulnerable systems on the TryHackMe platform.
 
-| Relative Path | Meaning | Absolute Path | Relative Path | Running a binary with a Relative Path | Running A Binary with an Absolute Path |
-|--- | --- | --- | --- | --- | --- |
-| . | Current Directory | /tmp/aa | . | ./hello | /tmp/aa/hello |
-| .. | Directory before the current directory | /tmp | .. | ../hello | /tmp/hello
-| ~ | The user's home directory | /home/\<current user> | ~ | ~/hello | /home/\<user/>/hello |
+ssh (SSH client) is a program for logging into a remote machine and for executing commands on a remote machine.  It is intended to provide secure encrypted communications between two un‐trusted hosts over an insecure network.  X11 connections, arbitrary TCP ports and UNIX-domain sockets can also be forwarded over the secure channel.
 
->export \<varname/>=\<value/> will set that as an environment variable \
+ssh connects and logs into the specified destination, which may be specified as either [user@]hostname or a URI of the form ssh://[user@]hostname[:port]. The user must prove his/her identity to the remote machine using one of several methods (see below).
 
-It is worth noting that not all commands support the pipe, and some that do support it require you to use - instead of input, for example cat -. So always check to see if the command does support it
+No tasks for this section we need to respond to.
 
-The ; operator works a lot like &&, however it does not require the first command to execute successfully. This means that you can do dkhsgffgsafgfasdgfasfghkgdsgfs; ls and you would still see the output of ls.
+## Task 3 - PuTTY and SSH
+Run through of PuTTY and SSH.
 
-Work: \
-echo $USER \
-export test1234=shiba2
+No tasks for this section we need to respond to.
+
+## Task 4 - "&&"
+The parameter `&&` is used to concatenate two sets of commands together, and will only execute the command following the `&&` if the first command returns a value of true.
+
+No tasks for this section we need to respond to.
+
+## Task 5 - "&"
+The parameter `&` will run a job in the background. Usually you are unable to run a command while it takes its time to execute, but putting it in the background using `&` allows you to run other commands AND execute your command that was put in the background.
+
+Example:
+```bash
+# this will run an nmap service scan against our vulnerable TryHackMe box and then output the contents of the scan into a file named thm.txt, all while running it in the background
+nmap -sS <vulnerable ip image> > thm.txt &
+```
+
+## Task 6 - "$"
+We are now taking a look at the `$` operator for Linux, this operator refers to environment variables. We are able to create our own environment variables by doing `export <varname>=<value>` and it will create a correlating variable with its associated value. 
 
 ## Chmod
-
 > chmod \<file> \<permission>
 
 The first digit controls the permissions for the user that owns the file \

@@ -1,7 +1,13 @@
 ---
-layout: page
-title: "Burp Suite 101"
-permalink: /blog/Burp-Suite/
+title: "Burp Suite"
+date: 2020-12-25T01:02:30-06:00
+draft: false
+author: "Golgothus"
+description: "My attempt at completing the TryHackMe.com Beginner Path - Burp Suite 101 room"
+summary: "TryHackMe Beginner Path - Burp Suite 101 write-up."
+tags: ["TryHackMe","Linux"]
+featuredImage: "/images/japan.jpg"
+categories: ["THM - Beginner Path"]
 ---
 
 Burp Suite Intruder Documentation can be found [here](https://portswigger.net/burp/documentation/desktop/tools/intruder/)

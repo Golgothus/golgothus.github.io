@@ -1,3 +1,15 @@
+---
+title: "OWASP Top 10"
+date: 2020-12-25T01:02:30-06:00
+draft: false
+author: "Golgothus"
+description: "TryHackMe.com Beginner Path - OWASP Top 10 room"
+summary: "TryHackMe Beginner Path - OWASP Top 10 write-up."
+tags: ["TryHackMe","Web Application Security"]
+featuredImage: "/images/japan.jpg"
+categories: ["THM - Beginner Path"]
+---
+
 # OWASP Top 10
 
 This room broken down into what seems like several days of material. We'll try and do our best to go through and "update" as we go along.

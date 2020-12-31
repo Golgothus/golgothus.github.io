@@ -1,3 +1,14 @@
+---
+title: "Web Fundamentals"
+date: 2020-12-25T01:02:30-06:00
+draft: false
+author: "Golgothus"
+description: "TryHackMe.com Beginner Path - Web Fundamentals room"
+summary: "TryHackMe Beginner Path - Web Fundamentals write-up."
+tags: ["TryHackMe","Web Application Security"]
+featuredImage: "/images/japan.jpg"
+categories: ["THM - Beginner Path"]
+---
 # Web Fundamentals
 
 Typical ports for web servers would be:

@@ -1,3 +1,15 @@
+---
+title: "TMUX"
+date: 2020-12-25T01:02:30-06:00
+draft: false
+author: "Golgothus"
+description: "TryHackMe.com Beginner Path - TMUX walkthrough room"
+summary: "TryHackMe Beginner Path - TMUX write-up."
+tags: ["TryHackMe","Linux"]
+featuredImage: "/images/city.png"
+categories: ["THM - Beginner Path"]
+---
+
 # TMUX
 
 TMUX Cheatsheet can be found [here](https://imgur.com/bL9Dn3U)

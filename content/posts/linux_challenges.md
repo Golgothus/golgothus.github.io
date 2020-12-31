@@ -1,3 +1,14 @@
+---
+title: "Linux Challenges"
+date: 2020-12-25T01:02:30-06:00
+draft: false
+author: "Golgothus"
+description: "My attempt at completing the TryHackMe.com Beginner Path - Linux Challenges room"
+summary: "TryHackMe Beginner Path - Linux Challenges write-up."
+tags: ["TryHackMe","Linux"]
+featuredImage: "/images/japan.jpg"
+categories: ["THM - Beginner Path"]
+---
 # Linux Challenges
 
 ## SSH Creds

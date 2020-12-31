@@ -8,9 +8,6 @@ summary: "TryHackMe Beginner Path - Linux Privesc write-up."
 tags: ["TryHackMe","Linux"]
 featuredImage: "/images/japan.jpg"
 categories: ["THM - Beginner Path"]
-images: ["images/logo.jpg"]
-#- name: featured-image-preview
-# src: /assets/images/featured-image-preview.jpg
 ---
 
 # Linux Priv Escalation
