@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://golgothus.xyz/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
