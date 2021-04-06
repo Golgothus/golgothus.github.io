@@ -6,7 +6,7 @@ author: "Golgothus"
 description: "Vulnhub - Mr. Robot room."
 summary: "Vulnhub - Mr. Robot write-up."
 tags: ["Vulnhub","Linux","Privesc"]
-featuredImage: "/images/city.png"
+featuredImage: "/images/city.jpg"
 categories: ["Vulnhub"]
 ---
 # Mr Robot

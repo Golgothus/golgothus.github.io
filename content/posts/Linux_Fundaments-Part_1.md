@@ -6,7 +6,7 @@ author: "Golgothus"
 summary: "TryHackMe Beginner Path - Linux Fundamentals Part 1; Primarily this material runs over beginner Linux commands and usage such as touch, ls, man, su."
 categories: ["Linux Fundamentals"]
 tags: ["TryHackMe","Beginner Path","Linux"]
-featuredImage: "/images/city.png"
+featuredImage: "/images/city.jpg"
 ---
 # Linux Fundamentals - Part 1
 ## Task 1 - Intro

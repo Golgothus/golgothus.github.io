@@ -6,7 +6,7 @@ author: "Golgothus"
 summary: "Very long module on querying XML event logs and filtering them with XPath."
 categories: ["Linux Fundamentals"]
 tags: ["RangeForce","Powershell","Logging","Blue Team"]
-featuredImage: "/images/city.png"
+featuredImage: "/images/city.jpg"
 ---
 # RangeForce - Windows Event Logging
 

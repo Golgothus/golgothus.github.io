@@ -6,7 +6,7 @@ author: "Golgothus"
 description: "Walkthrough of the TryHackMe.com Beginner Path - OWASP Juice Shop room"
 summary: "TryHackMe Beginner Path - OWASP Juice Shop write-up."
 tags: ["TryHackMe","Web Application Security"]
-featuredImage: "/images/city.png"
+featuredImage: "/images/city.jpg"
 categories: ["THM - Beginner Path"]
 ---
 # THM Beginner Path - OWASP JuiceShop

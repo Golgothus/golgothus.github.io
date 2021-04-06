@@ -6,7 +6,7 @@ author: "Golgothus"
 description: "My attempt at completing the TryHackMe.com Beginner Path - Google Dorking room"
 summary: "TryHackMe Beginner Path - Google Dorking write-up."
 tags: ["TryHackMe","Linux"]
-featuredImage: "/images/city.png"
+featuredImage: "/images/city.jpg"
 categories: ["THM - Beginner Path"]
 images: ["images/logo.jpg"]
 #- name: featured-image-preview

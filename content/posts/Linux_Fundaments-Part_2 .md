@@ -6,7 +6,7 @@ author: "Golgothus"
 summary: "TryHackMe Beginner Path - Linux Fundamentals Part 2; Primarily this material runs over beginner Linux commands and usage such as chmod, sudo, grep, find, etc."
 categories: ["Linux Fundamentals"]
 tags: ["TryHackMe","Beginner Path","Linux"]
-featuredImage: "/images/city.png"
+featuredImage: "/images/city.jpg"
 ---
 # Linux Fundamentals - Part 2
 ## Task 1 - Intro

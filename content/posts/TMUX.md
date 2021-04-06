@@ -6,7 +6,7 @@ author: "Golgothus"
 description: "TryHackMe.com Beginner Path - TMUX walkthrough room"
 summary: "TryHackMe Beginner Path - TMUX write-up."
 tags: ["TryHackMe","Linux"]
-featuredImage: "/images/city.png"
+featuredImage: "/images/city.jpg"
 categories: ["THM - Beginner Path"]
 ---
 
