@@ -8,3 +8,5 @@
 6. IR Lifecycle (Planning, action, etc.)
 7. Vulnerability Management Lifecycle
 8. Lockheed Martin Killchain
+
+![binky](C:\Users\golgothus\OneDrive\Pictures\Greenshot\2021-05-06_00_03_40-golgothus_DESKTOP-F6J733L.png)

@@ -20,7 +20,7 @@ My site will primarily contain write-ups and posts on the following:
 Also, inclusive of any notes I have taken for my upcoming exams:
 - [~~CompTIA’s CySA+ (Cyber Security Analayst)~~](https://www.youracclaim.com/users/zachary-k.d4afa48b) Obtained
 - [~~Microsoft’s AZ-900 (Azure Fundamentals)~~](https://www.youracclaim.com/users/zachary-k.d4afa48b) Obtained
-- CompTIA’s Pentest+
+- [~~CompTIA’s Pentest+~~](https://www.credly.com/users/zachary-k.d4afa48b/badges)
 - OffSec’s PWK (Penetration Testing with Kali)
 
 This is just a very early sneak peak of things to come. Here is to hoping you will stay for the long-run. For me, the journey has only just begun, we will definitely be looking forward pushing towards the top. Where might that be, well only time will tell.
