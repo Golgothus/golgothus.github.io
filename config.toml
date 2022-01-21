@@ -6,6 +6,8 @@ languageCode = "en"
 title = "ghost$"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
+# date format (month and day)
+dateFormat = "yyyy-MM-ddTHH:mm:ss"
 
 [params]
   # LoveIt theme version

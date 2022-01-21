@@ -1,6 +1,6 @@
 ---
 title: "Sysmon"
-date: January 21, 2022 17:02:36
+date: 2022-01-21T17:22:09
 draft: false
 author: "Golgothus"
 description: "TryHackMe Sysmon Room"
