@@ -5,7 +5,7 @@ date: 2022-02-03T18:09:52
 draft: false
 author: "Golgothus"
 description: "Discord Payload Recon"
-summary: "Friend of mine was a victim to some Discord malware which hijacked their user token, allowing the attacker to sign-in and make changes to their account."
+summary: "Friend of mine was a victim to some Discord malware which hijacked their user token."
 tags: ["Blue Team"]
 featuredImage: "/images/japan.jpg"
 categories: ["Blue Team"]
