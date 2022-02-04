@@ -26,7 +26,7 @@ Due to interests in the matter, and this being a rather frequent issue, I went a
 > This is one of a few methods you can use to access Windows Sysinternals tools without having to use your browser https://docs.microsoft.com/en-us/sysinternals/
 
 - Copied over the `strings.exe` tool from the SysInternals tools directory to my userprofile\Downloads folder
-- Executed the following command `strings.exe -n 10 \<payloadfilename\> > output.txt
+- Executed the following command `strings.exe -n 10 \<payloadfilename\> > output.txt`
 
 From here I went ahead and reviewed the .txt file, at first I didn't find anything too much of interests, and I'll be honest I thought it was a C2 of some sort. About an hour or two had passed by this time and it was determined that the paylaod was a compiled NodeJS application.
 

@@ -6,7 +6,7 @@ draft: false
 author: "Golgothus"
 description: "TryHackMe Sysmon Room"
 summary: "Exercise - Install and configure sysmon for 'idea' threat hunting and investigations."
-tags: ["TryHackMe", "Blue Team"]
+tags: ["TryHackMe"],["Blue Team"]
 featuredImage: "/images/city.jpg"
 categories: ["TryHackMe"]
 ---
