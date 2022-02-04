@@ -1,11 +1,12 @@
 ---
 title: "Sysmon"
+# get-date -format yyyy-MM-ddTHH:mm:ss
 date: 2022-01-21T17:22:09
 draft: false
 author: "Golgothus"
 description: "TryHackMe Sysmon Room"
 summary: "Exercise - Install and configure sysmon for 'idea' threat hunting and investigations."
-tags: ["TryHackMe, BlueTeam"]
+tags: ["TryHackMe", "Blue Team"]
 featuredImage: "/images/city.jpg"
 categories: ["TryHackMe"]
 ---

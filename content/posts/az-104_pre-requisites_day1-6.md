@@ -5,7 +5,7 @@ draft: false
 author: "Golgothus"
 description: "Microsoft AZ-104 Learning Path."
 summary: "Exercise - Design and implement IP addressing for Azure virtual networks "
-tags: ["Azure, AZCLI","Azure Powershell"]
+tags: ["Azure, "AZCLI", "Azure Powershell"]
 featuredImage: "/images/city.jpg"
 categories: ["Azure"]
 ---
