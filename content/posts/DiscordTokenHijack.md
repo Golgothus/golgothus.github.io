@@ -6,9 +6,9 @@ draft: false
 author: "Golgothus"
 description: "Discord Payload Recon"
 summary: "Friend of mine was a victim to some Discord malware which hijacked their user token, allowing the attacker to sign-in and make changes to their account."
-# tags: ["TryHackMe", "Blue Team"]
+tags: ["Blue Team"]
 featuredImage: "/images/japan.jpg"
-# categories: ["TryHackMe"]
+categories: ["Blue Team"]
 ---
 
 Starting off I received a message from a friend, and they mentioned, "I am upset because, I got got". Not having any idea of what exactly they were alluding to, I asked what that meant. Long story short:
