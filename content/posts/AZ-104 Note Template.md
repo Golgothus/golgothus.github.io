@@ -1,5 +1,6 @@
 ---
 title: "AZ-104 Notes"
+# get-date -format yyyy-MM-ddTHH:mm:ss
 date: 2020-12-25T01:02:30-06:00
 draft: true
 author: "Golgothus"
