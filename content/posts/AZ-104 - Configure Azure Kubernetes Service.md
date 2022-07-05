@@ -25,7 +25,7 @@ categories: ["Azure"]
 **Manifest** is the YAML file describing a deployment.
 
 ## Explore the AKS cluster and node architecture
-![Azure Kubernetes Network Diagram](../../_resources/e49796a80738ad5d6e75f2f475b746d5-1.png)
+![Azure Kubernetes Network Diagram](../_resources/e49796a80738ad5d6e75f2f475b746d5-1.png)
 
 ### Nodes and Nodes Pools
 
