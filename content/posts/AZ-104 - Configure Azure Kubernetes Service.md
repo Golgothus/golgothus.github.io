@@ -52,7 +52,7 @@ Represents a single instance of your application. There are instances where a po
 
 ## Configure AKS Storage
 
-![d0f0ea34cf708fe50e03819d7ff04689.png](../../_resources/d0f0ea34cf708fe50e03819d7ff04689-1.png)
+![d0f0ea34cf708fe50e03819d7ff04689.png](../_resources/d0f0ea34cf708fe50e03819d7ff04689-1.png)
 
 ### Volumes
 A way to store, retrieve, and persist data across pods and through the application lifecycle.
@@ -79,6 +79,6 @@ If no StorageClass is used _default_ will be used. An additional StorageClass ma
 
 ## Configure AKS scaling to Azure Container Instances
 
-![483c1964fd1519f16e585396a585053a.png](../../_resources/483c1964fd1519f16e585396a585053a-1.png)
+![483c1964fd1519f16e585396a585053a.png](../_resources/483c1964fd1519f16e585396a585053a-1.png)
 
 To further enable raplidly scaling your AKS clusters, you can integrate with Azure Containers Instances. This will assist in deploying additional compute nodes / resources to allow for more pods to be created in the event there are no existing  compute resources within the node pool. If ACI is enabled, this will trigger the cluster autoscaler to deploy additional nodes in the node pool.
