@@ -92,4 +92,4 @@ Rules are evaluated in a _priority_ order. Starting the the **lowest priority** 
 
 In order for traffic to succeed it must pass through _all_ applied groups.
 
-The last rule is always a **DenyA All** rule. This is default to every NSG for both inbound and outbound traffic with a priority of 65500. For traffic to pass through the NSG, _you must have an allow rule_ or it will be blocked by the default final rule.
+The last rule is always a **Deny All** rule. This is default to every NSG for both inbound and outbound traffic with a priority of 65500. For traffic to pass through the NSG, _you must have an allow rule_ or it will be blocked by the default final rule.
