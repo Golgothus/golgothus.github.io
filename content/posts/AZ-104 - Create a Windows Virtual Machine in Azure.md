@@ -74,7 +74,7 @@ The Process to allow additional inbound rules:
 
 ### Security Group Rules
 
-![Azure NSG(Network Security Group) Diagram. Displaying NSG's for the subnet as well as an NSG for the associated NIC(Network interface card) for each VM. Image is the property of the Microsoft Learn website.](../_resources/2022-07-09_18_16_44-Window.png")
+![Azure NSG(Network Security Group) Diagram. Displaying NSG's for the subnet as well as an NSG for the associated NIC(Network interface card) for each VM. Image is the property of the Microsoft Learn website.](../_resources/2022-07-09_18_16_44-Window.png)
 
 #### How Azure uses Network rules
 
@@ -84,7 +84,7 @@ Inbound traffic:
 
 Outbound traffic (inverse of inbound):
 - First traffic is processed by the NIC nsg
-- SEcond the traffic is processed by the subnet NSG
+- Second the traffic is processed by the subnet NSG
 
 > Keep in mind that security groups are optional at both levels. If no security group is applied, then all traffic is allowed by Azure. If the VM has a public IP, this could be a serious risk, particularly if the OS doesn't provide some sort of firewall.
 
