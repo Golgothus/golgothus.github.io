@@ -96,3 +96,7 @@ Use a pscredential object. Before running the script, get the credentials for th
 Credentials aren't encrypted in .mof files by default. They're exposed as plaintext. To encrypt credentials, use a certificate in your configuration data. The certificate's private key needs to be on the node on which you want to apply the configuration. Certificates are configured through the node's LCM.
 
 > Starting in PowerShell 5.1, .mof files on the node are encrypted at rest. In transit, all credentials are encrypted through WinRM.
+
+## References:
+
+https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/
