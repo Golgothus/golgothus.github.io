@@ -1,5 +1,5 @@
 ---
-title: "AZ-104 Notes"
+title: "Host a web application in the Azure App Service"
 # get-date -format yyyy-MM-ddTHH:mm:ss
 date: 2022-07-29T17:17:16
 draft: false

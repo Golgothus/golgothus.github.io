@@ -1,5 +1,5 @@
 ---
-title: "AZ-104 - Creat a Windows virtual machine in Azure"
+title: "AZ-104 - Create a Windows virtual machine in Azure"
 # get-date -format yyyy-MM-ddTHH:mm:ss
 date: 2022-07-09T17:20:44
 draft: false
