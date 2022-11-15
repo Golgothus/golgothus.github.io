@@ -1,6 +1,6 @@
 ---
 title: "Windows Forensics 1"
-date: 2020-12-25T01:02:30-06:00
+date: 2022-11-14T19:07:15
 # get-date -format yyyy-MM-ddTHH:mm:ss
 draft: false
 author: "Golgothus"
