@@ -9,7 +9,7 @@ Hey everyone Golgothus here,
 
 Starting off welcome to the About Me section, happy to have you.
 
-> Articles / blog posts can be viewed [here](https://docs.golgothus.tech) on my docs site - https://docs.golgothus.tech
+### Articles / blog posts can be viewed [here](https://docs.golgothus.tech) on my docs site - https://docs.golgothus.tech
 
 This is a brand new thing for me as I am not typically accustomed to *creative* writing. Looks like I have finally been lured (or tricked depending on who is asking) into setting up a blog for myself. At least for what it is worth, it will give me a better outlet for some of my material which may not be as *technical*, what might my non-technical content be? I have no idea, but I am glad you are here for the ride.
 
